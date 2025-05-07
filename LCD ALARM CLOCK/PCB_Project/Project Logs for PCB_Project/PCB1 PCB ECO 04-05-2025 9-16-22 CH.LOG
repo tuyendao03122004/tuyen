@@ -1,0 +1,4 @@
+Added Component: Designator=Q?(TO92-123)
+Add component (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component Q? 2N222
+Added Room: Name=Sheet1
