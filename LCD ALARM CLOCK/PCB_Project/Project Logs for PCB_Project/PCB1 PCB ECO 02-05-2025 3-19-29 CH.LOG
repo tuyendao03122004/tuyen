@@ -1,7 +1,0 @@
-Change Component Designator: OldDesignator=SW? NewDesignator=SW1
-Change Component Designator: OldDesignator=SW? NewDesignator=SW2
-Change Component Designator: OldDesignator=SW? NewDesignator=SW3
-Change Component Designator: OldDesignator=SW? NewDesignator=SW4
-Added Member To Class: ClassName=Sheet1 Member=Component SW2 SW
-Added Member To Class: ClassName=Sheet1 Member=Component SW3 SW
-Added Member To Class: ClassName=Sheet1 Member=Component SW4 SW
