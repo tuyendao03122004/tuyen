@@ -1,0 +1,20 @@
+Change Component Footprint: Designator=SW6 Old Footprint=SW2 New Footprint=SWITCH BIT 1
+Change Component Footprint: Designator=SW7 Old Footprint=SW2 New Footprint=SWITCH BIT 1
+Change Component Comment : Designator=SW6 Old Comment=SW New Comment=1P
+Change Component Comment : Designator=SW7 Old Comment=SW New Comment=1P
+Change component parameters: Designator = "SW6" ("SW6"); Footprint = "SW2"; UniqueID = "\VAPEDDPK" ("\VAPEDDPK")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH000964"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Switch S? 1P ( Công T?c Bit 1P) Màu Ð?"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW7" ("SW7"); Footprint = "SW2"; UniqueID = "\KNFUXZCQ" ("\KNFUXZCQ")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH000964"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Switch S? 1P ( Công T?c Bit 1P) Màu Ð?"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component U1 ATmega32A-PU
+Added Room: Name=Sheet1
